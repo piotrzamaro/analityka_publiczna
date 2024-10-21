@@ -57,6 +57,17 @@ podejmowanych działań
 
 ### 2024.10.21 Polityka publiczna
 
+
+#### Rola Organów Polityki Publicznej
+
+**Organy polityki publicznej** to instytucje odpowiedzialne za podejmowanie decyzji i wdrażanie polityk publicznych. W zależności od szczebla i obszaru działania można je podzielić na:
+- **Organy centralne**: takie jak rząd i ministerstwa, które odpowiadają za tworzenie ogólnokrajowych polityk i strategii.
+- **Organy samorządowe**: które zajmują się wdrażaniem polityk na poziomie lokalnym, dostosowując je do specyficznych potrzeb regionów.
+- **Instytucje niezależne i organizacje pozarządowe**: pełniące rolę kontrolną lub doradczą, często uczestniczące w monitorowaniu efektywności polityk.
+
+Każdy z tych organów pełni określoną funkcję w systemie polityki publicznej, a ich współpraca jest niezbędna dla skutecznego zarządzania publicznego.
+
+
 #### Definicja
 
 Polityka publiczna to zorganizowane działania podejmowane przez instytucje państwowe, samorządowe oraz inne podmioty publiczne w celu rozwiązania najważniejszych problemów społecznych. Jest to proces zbiorowego działania, który uwzględnia różnorodne interesy społeczne i dąży do ich zrównoważonego zaspokojenia.
@@ -92,12 +103,3 @@ Polityka publiczna obejmuje szeroki zakres działań, które są odpowiedzią na
 6. **Podejmowanie decyzji w dłuższej perspektywie**: Polityka publiczna musi uwzględniać długoterminowe cele i skutki podejmowanych decyzji. Długofalowe planowanie jest szczególnie ważne w obszarach takich jak ochrona środowiska, infrastruktura, zdrowie publiczne czy edukacja, gdzie skutki decyzji mogą być odczuwalne dopiero po wielu latach.
 
 ---
-
-### Rola Organów Polityki Publicznej
-
-**Organy polityki publicznej** to instytucje odpowiedzialne za podejmowanie decyzji i wdrażanie polityk publicznych. W zależności od szczebla i obszaru działania można je podzielić na:
-- **Organy centralne**: takie jak rząd i ministerstwa, które odpowiadają za tworzenie ogólnokrajowych polityk i strategii.
-- **Organy samorządowe**: które zajmują się wdrażaniem polityk na poziomie lokalnym, dostosowując je do specyficznych potrzeb regionów.
-- **Instytucje niezależne i organizacje pozarządowe**: pełniące rolę kontrolną lub doradczą, często uczestniczące w monitorowaniu efektywności polityk.
-
-Każdy z tych organów pełni określoną funkcję w systemie polityki publicznej, a ich współpraca jest niezbędna dla skutecznego zarządzania publicznego.
